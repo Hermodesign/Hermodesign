@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikola Mitic</h1>
+<h1 align="center">Hi 👋, I'm Nikola Mitic | HermoDesign</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
 <h3 align="center">Connect with me:</h3>
